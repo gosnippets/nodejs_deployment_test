@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_deployment_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gosnippets/nodejs_deployment_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gosnippets/nodejs_deployment_test/issues"
+  },
+  "homepage": "https://github.com/gosnippets/nodejs_deployment_test#readme"
+}
